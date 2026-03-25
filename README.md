@@ -1,6 +1,6 @@
-#Mouse Control with Face & Hand (OpenCV)
+# Mouse Control with Face & Hand (OpenCV)
 
-#Desription
+## Desription
 
 This project allows controlling the computer mouse using a webcam.
 
@@ -9,7 +9,7 @@ mouse click → triggered by detecting a hand in a specific area
 
 The application uses real-time image processing.
 
-##How It Works
+## How It Works
 The webcam captures video frames
 A face is detected using Haar Cascade
 The center of the face is mapped to screen coordinates
