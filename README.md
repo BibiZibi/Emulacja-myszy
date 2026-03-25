@@ -4,8 +4,8 @@
 
 This project allows controlling the computer mouse using a webcam.
 
-cursor movement → controlled by head position
-mouse click → triggered by detecting a hand in a specific area
+- cursor movement → controlled by head position
+- mouse click → triggered by detecting a hand in a specific area
 
 The application uses real-time image processing.
 
